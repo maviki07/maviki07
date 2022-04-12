@@ -1,9 +1,8 @@
-##About Me
+# About Me
 
 - 👋 Hi, I’m **@maviki07**
 - 👀 I’m interested in dance, movies, music, books, and many other things.
 - 🌱 I’m currently in high school
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me glinkoskibrazmariavitoria@gmail.com
 
 <!---
