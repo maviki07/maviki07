@@ -1,7 +1,7 @@
 # About Me
 
 - 🍄 Hi, I’m **@maviki07**
-- 🎬 I’m interested in dance, movies, music, books, and many other things.
+- 🎬 I’m interested in learn programming languages.
 - 📚 I’m currently in high school
 - 📬 How to reach me glinkoskibrazmariavitoria@gmail.com
 
